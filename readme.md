@@ -26,7 +26,7 @@ Given a single image, calculate and return the edges of the image laid on top of
 
 - Error handling for when the file passsed is not an image
 
-### Enhancement Ideas (Todo)
+## Future Enhancement Ideas (Todo)
 - Multiple Input formats
 - Real-Time Processing 
 - Drag and drop images
