@@ -1,7 +1,7 @@
 # Canny Edge Detection App
 
 ## Overview:
-    Given a single image, return the edges of the image using canny edge detection
+Given a single image, calculate and return the edges of the image laid on top of original image for visualization using canny edge detection algorithm.
 
 ## Goals:
 - Understand how Canny Edge Detection works via double thresholding and Hysteresis.
